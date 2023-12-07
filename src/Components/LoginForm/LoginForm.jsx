@@ -71,6 +71,7 @@ const LoginForm = ({ setIsLoggedIn }) => {
         </div>
         <input type="submit" value="Log In" className="login_button" />
       </form>
+      
       <div className="icons">
         <GoogleIcon className="icon" />
       </div>
